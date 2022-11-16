@@ -4,6 +4,11 @@ This directory is managed as a monorepo that is composed of several NPM
 packages. The primary sub-package is [apps/platform](./apps/platform/README.md)
 with the StackRox Kubernetes Security Platform Web UI.
 
+# Stackrox Quick Start
+https://wyssmann.com/blog/2021/05/what-is-stackrox-red-hat-advanced-cluster-security-for-kubernetes/
+
+https://conflowence.atlassian.net/l/cp/irx1EzEc
+
 ## Monorepo Structure and Principles
 
 ### Root
